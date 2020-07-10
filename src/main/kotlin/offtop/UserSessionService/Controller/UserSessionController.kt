@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController
 @RestController
 public class UserSessionController{
     @RequestMapping("/Test")
-    fun test() = "Spring Boot works!!"
+    fun test() = "I got the POWER!!"
 
 
 }
